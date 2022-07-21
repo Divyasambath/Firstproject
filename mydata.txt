@@ -1,2 +1,2 @@
-this is my data document for github demo.
+this is my datas document for github demo.
 now edit this file
